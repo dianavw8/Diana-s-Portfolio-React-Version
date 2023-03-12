@@ -1,41 +1,70 @@
-# Diana-s-Portfolio
+# Getting Started with Create React App
 
-## Description
-My portfolio of work showcases the skills and talents I have acquired over the course of my education and work experience. Providing my portfolio will give an opportunity for potential employers and peers to look at the knowledge I've acquired and projects and applications I have recently completed.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Purpose
-By creating my portfolio, I will set myself up for future success by applying the core skills I've learned. I will continue to grow and improve the appearance of my portfolio as I gain more experience and knowledge.
+## Available Scripts
 
-## Installation
-To install my project use the following link: https://dianavw8.github.io/Diana-s-Portfolio/ and follow these simple directions:
+In the project directory, you can run:
 
-Above the list of files, click on the "Code" button.
+### `npm start`
 
-Copy the URL for the repository.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Open Git Bash.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Change the current working directory to the location where you want the cloned directory.
+### `npm test`
 
-Type git clone, and then paste the URL you copied earlier.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Press Enter to create your local clone.
+### `npm run build`
 
-For more help and information achiving this, check out the following website: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Usage
-The refactored website can be found at: https://dianavw8.github.io/Diana-s-Portfolio/
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-The following image demonstrates the web application's appearance and functionality:
-![Diana's Portfolio webpage includes links to different projects.](Images/DianasPortfolioImage.jpg)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-## Lessons Learned
-Throughout this project, I learned the importance of maintain my portfolio updated with new projects and applications completed. I will continue to improve the appearance of the portfolio as I gain more experience and knowledge.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Credits and Inspiration
-https://github.com/dianavw8
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
