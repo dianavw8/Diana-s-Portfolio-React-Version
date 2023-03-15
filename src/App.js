@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="App">
-      <HeaderPortfolio showComponent={showComponent} componentToShow={componentToShow} />
+      <HeaderPortfolio showComponent={showComponent} />
       <ProjectPortfolio componentToShow={componentToShow} />
       <FooterPortfolio/>
     </div>
