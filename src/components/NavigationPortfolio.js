@@ -23,27 +23,39 @@ function NavigationPortfolio(props) {
             <div className="collapse navbar-collapse" id="myNavbar">
             <ul className="nav navbar-nav navbar-right">
                 <li>
-                <a href="#home"onClick={() => {
+                <a href="#"onClick={() => {
                     console.log("testing onClick of Home");
                     props.showComponent('');
 
                 }}>Home</a>
                 </li>
                 <li>
-                <a href="#about" onClick={() => {
+                <a href="#" onClick={() => {
                     console.log("testing onClick of AboutMe");
                     props.showComponent('AboutMe');
 
                 }}>About Me</a>
                 </li>
                 <li>
-                <a href="#portfolio">Portfolio</a>
+                <a href="#" onClick={() => {
+                    console.log("testing onClick of WorkPortfolio");
+                    props.showComponent('WorkPortfolio');
+
+                }}>Portfolio</a>
                 </li>
                 <li>
-                <a href="#contact">Contact</a>
+                <a href="#" onClick={() => {
+                    console.log("testing onClick of Contact");
+                    props.showComponent('Contact');
+
+                }}>Contact</a>
                 </li>
                 <li>
-                <a href="#resume">Resume</a>
+                <a href="#" onClick={() => {
+                    console.log("testing onClick of Resume");
+                    props.showComponent('Resume');
+
+                }}>Resume</a>
                 </li>
             </ul>
             </div>

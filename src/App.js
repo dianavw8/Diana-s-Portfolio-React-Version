@@ -10,8 +10,6 @@ function App() {
   const [componentToShow, setComponentToShow] = useState(null);
 
   const showComponent = (component) => {
-    console.log('component');
-    console.log(component);
     setComponentToShow(component);
   };
 
