@@ -63,16 +63,16 @@ img:hover {
 .navbar {
   background-color: var(--primary-accent-color);
 }
-.navbar ul li a {
-  color: #fff !important;
+.navbar .navbar-default .navbar-fixed-top ul li a {
+  color: #fff ;
   font-size: 23px;
 }
-.navbar ul li a:hover {
-  background-color: #fff !important;
-  color: #a19662 !important;
+.navbar .navbar-default .navbar-fixed-top ul li a:hover {
+  background-color: #fff ;
+  color: #a19662 ;
 }
 .navbar-brand {
-  color: #fff !important;
+  color: #fff ;
   font-size: 23px;
 }
 /* center hero image when screen width is no more than 768px */
@@ -104,7 +104,7 @@ img:hover {
 /* ABOUT SECTION */
 #about {
   margin-bottom: 65px;
-  background-image: linear-gradient(lightgray,white);
+  /* background-image: linear-gradient(lightgray,white); */
 }
 .about-text {
   font-size: 25px;
@@ -128,9 +128,9 @@ img:hover {
   }
 }
 /* PORTFOLIO SECTION */
-#portfolio {
+/* #portfolio {
   background-color: var(--primary-accent-color);
-}
+} */
 #portfolio a {
   font-size: 20px;
   color: black;
@@ -163,7 +163,7 @@ iframe {
 }
 /* CONTACT SECTION */
 #contact {
-  background-color: lightgray;
+  background-color: var(--primary-accent-color);
   font-family: "Oswald";
   font-size: 68px;
 }
