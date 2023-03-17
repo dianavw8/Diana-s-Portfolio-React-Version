@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Diana's Portfolio React Version
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![MIT License](https://img.shields.io/static/v1?label=license&message=MIT&color=green)
 
-## Available Scripts
+## Description
+My portfolio of work showcases the skills and talents I have acquired over the course of my education and work experience. Providing my portfolio will give an opportunity for potential employers and peers to look at the knowledge I've acquired and projects and applications I have recently completed.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
+To install my project use the following link: https://github.com/dianavw8/diana-s-portfolio-react-version and follow these simple directions:
 
-### `npm test`
+Above the list of files, click on the "Code" button.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Copy the URL for the repository.
 
-### `npm run build`
+Open Git Bash.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Change the current working directory to the location where you want the cloned directory.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Type git clone, and then paste the URL you copied earlier.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Press Enter to create your local clone.
 
-### `npm run eject`
+For more help and information achiving this, check out the following website: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Usage
+The refactored website can be found at: https://dianavw8.github.io/diana-s-portfolio-react-version/#
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The following image demonstrates the application's appearance and functionality in the About Me page:
+![Diana's Portfolio React Version image shows the About Me page](public/assets/React_Portfolio_03.jpg)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The following image demonstrates the application's appearance and functionality:
+![Diana's Portfolio React Version image shows the Portfolio page with links to six projects and GitHub for each](public/assets/React_Portfolio_01.jpg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The following image demonstrates the application's appearance and functionality:
+![Diana's Portfolio React Version image shows the Contact page with contact form to complete](public/assets/React_Portfolio_02.jpg)
 
-## Learn More
+The following image demonstrates the application's appearance and functionality:
+![Diana's Portfolio React Version image shows the Resume page with link and dowload option for resume](public/assets/React_Portfolio_04.jpg)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+MIT License link: https://github.com/babel/babel/blob/master/LICENSE
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contributing
 
-### Analyzing the Bundle Size
+The following are contributers to the making of Diana's Portfolio React Version project:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+https://shields.io/
 
-### Making a Progressive Web App
+https://choosealicense.com/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://opensource.org/licenses##
