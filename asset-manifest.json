@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/diana-s-portfolio-react-version/static/css/main.fa7469fb.css",
-    "main.js": "/diana-s-portfolio-react-version/static/js/main.da353c0b.js",
+    "main.js": "/diana-s-portfolio-react-version/static/js/main.e8f63ea1.js",
     "static/js/787.326e02e9.chunk.js": "/diana-s-portfolio-react-version/static/js/787.326e02e9.chunk.js",
     "static/media/logo.svg": "/diana-s-portfolio-react-version/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/diana-s-portfolio-react-version/index.html",
     "main.fa7469fb.css.map": "/diana-s-portfolio-react-version/static/css/main.fa7469fb.css.map",
-    "main.da353c0b.js.map": "/diana-s-portfolio-react-version/static/js/main.da353c0b.js.map",
+    "main.e8f63ea1.js.map": "/diana-s-portfolio-react-version/static/js/main.e8f63ea1.js.map",
     "787.326e02e9.chunk.js.map": "/diana-s-portfolio-react-version/static/js/787.326e02e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa7469fb.css",
-    "static/js/main.da353c0b.js"
+    "static/js/main.e8f63ea1.js"
   ]
 }
